@@ -1,4 +1,4 @@
-package com.rnproject;
+package com.myproject;
 
 import android.app.Application;
 
